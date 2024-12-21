@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GitHubApp": {
+      "commandName": "Project",
+      "commandLineArgs": "zhouxian franka"
+    }
+  }
+}
